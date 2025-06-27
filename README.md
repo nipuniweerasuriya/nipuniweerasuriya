@@ -41,10 +41,8 @@
 
 ## 📈 Contribution Graph
 
-<a href="https://github.com/nipuniweerasuriya">
-  <img src="https://github-contribution-graph.vercel.app/api/?username=nipuniweerasuriya&bg_color=1f1f1f&color=ffffff&line=00bfff&point=ffffff" />
-</a>
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nipuniweerasuriya&theme=github-dark&hide_border=true" />
 </div>
 
 
