@@ -1,51 +1,74 @@
+<div align="center">
+
 # 👋 Hello, I'm Nipuni Weerasuriya!
 
-🎓 Undergraduate | 💻 Web Developer | 🌱 Laravel & PHP Learner
+![Visitor Badge](https://komarev.com/ghpvc/?username=nipuniw&label=Profile+views&color=0e75b6&style=flat)
+
+🎓 Undergraduate | 💻 Web Developer | 🌱 Always Learning
+
+</div>
 
 ---
 
-## 🛠️ Technologies I Work With
+<div align="center">
 
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white)
+## 🛠️ Tech Stack
 
----
+<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white" />
 
-## 📊 GitHub Stats (Live)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nipuniw&show_icons=true&theme=github_dark&count_private=true)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nipuniw&layout=compact&theme=github_dark&langs_count=8)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=nipuniw&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)
+</div>
 
 ---
 
-## 📈 GitHub Activity Graph
+<div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=nipuniw&theme=github-compact&hide_border=true)](https://github.com/nipuniw)
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=nipuniw&show_icons=true&theme=tokyonight&hide_title=true" />  
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipuniw&layout=compact&theme=tokyonight" />  
+<br/>
+<img src="https://streak-stats.demolab.com/?user=nipuniw&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-## 🚀 Projects Highlight
+<div align="center">
 
-- 🎓 **Student Module** – View attendance and submit medicals
-- 🔧 **Admin Panel** – Complete CRUD system
-- 🍽️ **TasteNow** – Website for café menu browsing
+## 🚀 Projects
+
+🍽️ <strong>TasteNow</strong> – Café website for online menu viewing  
+🎓 <strong>Student Module</strong> – Submit medical reports, view attendance  
+🛠️ <strong>Admin Panel</strong> – CRUD for managing user data  
+
+</div>
 
 ---
+
+<div align="center">
+
+## 📈 Contribution Graph
+
+<a href="https://github.com/nipuniw">
+  <img src="https://github-contribution-graph.vercel.app/api/?username=nipuniw&bg_color=1f1f1f&color=ffffff&line=00bfff&point=ffffff" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
 
 ## 📫 Connect with Me
 
-- 📧 Email: yourmail@gmail.com  
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)  
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+<a href="https://www.linkedin.com/in/yourname">💼 LinkedIn</a> |
+<a href="mailto:yourmail@gmail.com">✉️ Email</a> |
+<a href="https://yourwebsite.com">🌐 Portfolio</a>
 
----
-
-![Visitor Badge](https://komarev.com/ghpvc/?username=nipuniw&style=flat-square&color=blue)
+</div>
