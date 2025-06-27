@@ -10,8 +10,9 @@
 
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/#4c1/nipuniweerasuriya" alt="nipuniweerasuriya's GitHub Contribution Chart" />
+  <img src="https://ghchart.rshah.org/00bfff/nipuniweerasuriya" alt="nipuniweerasuriya's GitHub Contribution Chart" />
 </div>
+
 
 
 
