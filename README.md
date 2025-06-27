@@ -59,7 +59,7 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
-<a href="https://www.youtube.com/https://youtube.com/@binarybrainprojects?si=gJC6TaON72WGNnfa">
+<a href="https://www.youtube.com/@binarybrainprojects?si=gJC6TaON72WGNnfa">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
 </a>
 
