@@ -42,7 +42,7 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nipuniweerasuriya&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=https://github.com/nipuniweerasuriya&theme=github-dark&hide_border=true" />
 </div>
 
 
