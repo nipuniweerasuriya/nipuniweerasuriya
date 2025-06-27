@@ -8,12 +8,6 @@
 
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nipuniweerasuriya&theme=tokyo-night&hide_border=true" width="700" />
-</div>
-
-
-
 
 <div align="center">
 
@@ -47,7 +41,7 @@
 
 ## 📈 Contribution Graph
 
-<a href="https://github.com/nipuniw">
+<a href="https://github.com/nipuniweerasuriya">
   <img src="https://github-contribution-graph.vercel.app/api/?username=nipuniweerasuriya&bg_color=1f1f1f&color=ffffff&line=00bfff&point=ffffff" />
 </a>
 
