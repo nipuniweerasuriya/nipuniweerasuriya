@@ -8,6 +8,11 @@
 
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nipuniweerasuriya&theme=tokyo-night&hide_border=true" width="700" />
+</div>
+
+
 
 
 <div align="center">
