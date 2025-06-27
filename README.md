@@ -48,7 +48,7 @@
 ## 📈 Contribution Graph
 
 <a href="https://github.com/nipuniw">
-  <img src="https://github-contribution-graph.vercel.app/api/?username=nipuniw&bg_color=1f1f1f&color=ffffff&line=00bfff&point=ffffff" />
+  <img src="https://github-contribution-graph.vercel.app/api/?username=nipuniweerasuriya&bg_color=1f1f1f&color=ffffff&line=00bfff&point=ffffff" />
 </a>
 
 </div>
