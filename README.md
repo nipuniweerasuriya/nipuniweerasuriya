@@ -72,8 +72,7 @@
 
 ## 📫 Connect with Me
 
-<a href="https://www.linkedin.com/in/yourname">💼 LinkedIn</a> |
-<a href="mailto:yourmail@gmail.com">✉️ Email</a> |
-<a href="https://yourwebsite.com">🌐 Portfolio</a>
+<a href="www.linkedin.com/in/nipuni-weerasuriya-782990277">💼 LinkedIn</a> |
+<a href="mailto:nipuniweerasuriya2@gmail.com">✉️ Email</a> |
 
 </div>
