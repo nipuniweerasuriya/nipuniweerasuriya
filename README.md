@@ -43,19 +43,6 @@
 </div>
 
 
-
-<div align="center">
-
-## 🚀 Projects
-
-🍽️ <strong>TasteNow</strong> – Café website for online menu viewing  
-🎓 <strong>Student Module</strong> – Submit medical reports, view attendance  
-🛠️ <strong>Admin Panel</strong> – CRUD for managing user data  
-
-</div>
-
-
-
 <div align="center">
 
 ## 📈 Contribution Graph
