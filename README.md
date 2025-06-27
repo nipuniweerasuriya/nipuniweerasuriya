@@ -8,6 +8,22 @@
 
 </div>
 
+
+
+<div align="center">
+
+## 👩‍💻 About Me
+
+I am a passionate and driven Software Development student with a deep love for crafting innovative digital solutions.  
+With a strong foundation in web and software development, I’ve honed my skills in **HTML**, **CSS**, **Java**, **JavaScript**, **PHP**, and **MySQL**, and I'm always exploring new technologies to expand my expertise.  
+<br><br>
+I thrive on solving complex problems, collaborating in dynamic teams, and communicating ideas effectively. Whether it's designing intuitive user interfaces or brainstorming creative solutions, I’m always eager to turn challenges into opportunities for growth and innovation.  
+<br><br>
+What fuels my journey is a constant passion for learning and building software that makes a real difference.  
+My goal is to develop not just functional applications, but impactful tools that improve lives, create value, and drive positive change in the digital world.
+
+</div>
+
 ---
 
 <div align="center">
@@ -23,6 +39,7 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -32,6 +49,7 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
 </div>
+
 
 
 
